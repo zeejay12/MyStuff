@@ -25,13 +25,18 @@ namespace GradeBookAverage
             int gradesTotal = 0; //sum of the grades entered by user
             int numOfGrades = 0;// number of the grade to be entered next
             int grade = 0;// grade value entered by the user
-            int average = 0;// average of the grades
+           // number with decimal point for average
 
             // initization phase
             // initialize the total
             // initialize the loop counter
 
             // processing phase
+
+            //prompt for and read a grade from the user
+
+
+            // loop until sentinel value is read from the user
             while (numOfGrades <= 10)
             {   //loop 10 times
                 Console.Write("Enter grade: ");// prompt the user
