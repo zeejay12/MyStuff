@@ -1,0 +1,6 @@
+c:\users\zamranj\documents\visual studio 2017\Projects\AccountTest\AccountTest\bin\Debug\AccountTest.exe.config
+c:\users\zamranj\documents\visual studio 2017\Projects\AccountTest\AccountTest\bin\Debug\AccountTest.exe
+c:\users\zamranj\documents\visual studio 2017\Projects\AccountTest\AccountTest\bin\Debug\AccountTest.pdb
+c:\users\zamranj\documents\visual studio 2017\Projects\AccountTest\AccountTest\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+c:\users\zamranj\documents\visual studio 2017\Projects\AccountTest\AccountTest\obj\Debug\AccountTest.exe
+c:\users\zamranj\documents\visual studio 2017\Projects\AccountTest\AccountTest\obj\Debug\AccountTest.pdb

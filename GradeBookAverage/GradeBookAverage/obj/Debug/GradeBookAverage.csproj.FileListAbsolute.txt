@@ -1,0 +1,6 @@
+c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\bin\Debug\GradeBookAverage.exe.config
+c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\bin\Debug\GradeBookAverage.exe
+c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\bin\Debug\GradeBookAverage.pdb
+c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.csprojResolveAssemblyReference.cache
+c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.exe
+c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.pdb

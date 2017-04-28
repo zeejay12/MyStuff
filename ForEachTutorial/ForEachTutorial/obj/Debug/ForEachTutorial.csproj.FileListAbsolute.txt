@@ -1,0 +1,6 @@
+c:\users\zamranj\documents\visual studio 2017\Projects\ForEachTutorial\ForEachTutorial\bin\Debug\ForEachTutorial.exe.config
+c:\users\zamranj\documents\visual studio 2017\Projects\ForEachTutorial\ForEachTutorial\bin\Debug\ForEachTutorial.exe
+c:\users\zamranj\documents\visual studio 2017\Projects\ForEachTutorial\ForEachTutorial\bin\Debug\ForEachTutorial.pdb
+c:\users\zamranj\documents\visual studio 2017\Projects\ForEachTutorial\ForEachTutorial\obj\Debug\ForEachTutorial.csprojResolveAssemblyReference.cache
+c:\users\zamranj\documents\visual studio 2017\Projects\ForEachTutorial\ForEachTutorial\obj\Debug\ForEachTutorial.exe
+c:\users\zamranj\documents\visual studio 2017\Projects\ForEachTutorial\ForEachTutorial\obj\Debug\ForEachTutorial.pdb
