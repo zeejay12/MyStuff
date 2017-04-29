@@ -18,6 +18,7 @@ namespace GradeBookAverage
         public void DisplayMessage()
         {
             Console.WriteLine("Welcome to {0}", CourseName); ;
+            Console.WriteLine("");
         }
 
         public void DetermineClassAverage()
@@ -25,7 +26,8 @@ namespace GradeBookAverage
             int gradesTotal = 0; //sum of the grades entered by user
             int numOfGrades = 0;// number of the grade to be entered next
             int grade = 0;// grade value entered by the user
-           // number with decimal point for average
+            double average;// number with decimal point for average
+            int counter = 0;
 
             // initization phase
             // initialize the total
@@ -35,23 +37,35 @@ namespace GradeBookAverage
 
             //prompt for and read a grade from the user
 
-
+            Console.Write("Enter grade or -1 to quit: ");
+            grade = Convert.ToInt32(Console.ReadLine());
+            
             // loop until sentinel value is read from the user
-            while (numOfGrades <= 10)
-            {   //loop 10 times
-                Console.Write("Enter grade: ");// prompt the user
-                grade = Convert.ToInt32(Console.ReadLine());//read the grade
+            while (grade != -1)
+            {   
+               
+                
                 gradesTotal = gradesTotal + grade;// add the grade to total
-                numOfGrades++; // increment the counter by 1
+                Console.Write("Enter grade or -1 to quit: ");// prompt the user
+                grade = Convert.ToInt32(Console.ReadLine());//read the grade
+                counter++;
+            }
 
+            average = Convert.ToDouble (gradesTotal) / Convert.ToDouble(counter);// integer divison yields integer result
+            
+            //display total and average of grades
+            if (gradesTotal == 0)
+            {
+                Console.WriteLine("No grades were entered");
+            }
+            else
+            {   Console.WriteLine("Total of the {0} grades entred is {1}",counter, gradesTotal );
+                Console.WriteLine("Class average is {0:F}", average);
             }
 
             //terminate phase
 
-            average = gradesTotal / numOfGrades;// integer divison yields integer result
-            Console.WriteLine("Total of all 10 grades is: {0}", gradesTotal);
-            Console.WriteLine("Class average is {0}", average);
-            //display total and average of grades
+            
 
 
 

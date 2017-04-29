@@ -4,3 +4,9 @@ c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBoo
 c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.csprojResolveAssemblyReference.cache
 c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.exe
 c:\users\zamranj\documents\visual studio 2017\Projects\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.pdb
+C:\Users\ZamranJ\Source\Repos\MyStuff\GradeBookAverage\GradeBookAverage\bin\Debug\GradeBookAverage.exe.config
+C:\Users\ZamranJ\Source\Repos\MyStuff\GradeBookAverage\GradeBookAverage\bin\Debug\GradeBookAverage.exe
+C:\Users\ZamranJ\Source\Repos\MyStuff\GradeBookAverage\GradeBookAverage\bin\Debug\GradeBookAverage.pdb
+C:\Users\ZamranJ\Source\Repos\MyStuff\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.csprojResolveAssemblyReference.cache
+C:\Users\ZamranJ\Source\Repos\MyStuff\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.exe
+C:\Users\ZamranJ\Source\Repos\MyStuff\GradeBookAverage\GradeBookAverage\obj\Debug\GradeBookAverage.pdb

@@ -14,12 +14,14 @@ namespace GradeBookAverage
 
             myGradeBook.DisplayMessage();
             myGradeBook.DetermineClassAverage();
-                      
+            Console.WriteLine("");
+
 
             Console.WriteLine("==============================================================================\n");
 
-            GradeBookSentinel myGradeBookSent = new GradeBookSentinel("Welcome to Devils Den. This is something");
+            GradeBookSentinel myGradeBookSent = new GradeBookSentinel("Welcome to Devils Den. The ultimate guide");
 
+            myGradeBookSent.DisplayMessage();
             myGradeBookSent.DetermineClassAverage();
 
             Console.ReadLine();
